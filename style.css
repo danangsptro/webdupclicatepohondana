@@ -1,0 +1,26 @@
+.layer1{
+    background-image: url(..//pertemuan9/img/bgrn.png);
+    height: 550px ;
+    color: white;
+}
+.layer2{
+    margin-top: 5rem;
+}
+.layer4{
+    margin-left: 3rem;
+    min-height: 50px;
+}
+/* LOGIN */
+#header{
+    background-image: url(..//pertemuan9/img/bg2.jpg);
+    background-size: cover;
+    height: 50rem;
+}
+.form{
+    justify-content: center;
+    margin-top: 10%;
+    padding: 1%;
+}
+a{
+    color: green;
+}
