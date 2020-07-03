@@ -1,5 +1,5 @@
 .layer1{
-    background-image: url(..//pertemuan9/img/bgrn.png);
+    background-image: url(..//webdupclicatepohondana/img/bgrn.png);
     height: 550px ;
     color: white;
 }
@@ -12,7 +12,7 @@
 }
 /* LOGIN */
 #header{
-    background-image: url(..//pertemuan9/img/bg2.jpg);
+    background-image: url(../webdupclicatepohondana/img/bg2.jpg);
     background-size: cover;
     height: 50rem;
 }
